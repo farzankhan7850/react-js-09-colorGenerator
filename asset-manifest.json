@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-js-09-colorGenerator/static/css/main.598d7b21.css",
+    "main.js": "/react-js-09-colorGenerator/static/js/main.47119849.js",
+    "index.html": "/react-js-09-colorGenerator/index.html",
+    "main.598d7b21.css.map": "/react-js-09-colorGenerator/static/css/main.598d7b21.css.map",
+    "main.47119849.js.map": "/react-js-09-colorGenerator/static/js/main.47119849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598d7b21.css",
+    "static/js/main.47119849.js"
+  ]
+}
